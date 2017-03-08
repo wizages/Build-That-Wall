@@ -1,0 +1,10 @@
+Package: com.wizages.buildthatwall
+Name: Build That Wall!
+Depends: mobilesubstrate
+Version: 7vaultl33k
+Architecture: iphoneos-arm
+Description: Let the goverment spy on you.
+Maintainer: wizages
+Author: wizages
+Section: Tweaks
+Depiction: http://wizages.com/cydia/depictions/?dep=com.wizages.buildthatwall

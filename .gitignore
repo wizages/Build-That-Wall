@@ -1,0 +1,5 @@
+/debs
+/packages
+.theos
+
+*.ai
